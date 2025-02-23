@@ -1,2 +1,2 @@
-[![tumsifu's Github stats-Dark](https://github-readme-stats.vercel.app/api?username=tumsifu&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Tumsifu's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=tumsif&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![tumsifu's Github stats-Dark](https://github-readme-stats.vercel.app/api?username=tumsif&hide=contribs,prs&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Tumsifu's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=tumsif&hide=contibs,prs&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
